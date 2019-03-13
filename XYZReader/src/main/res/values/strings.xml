@@ -6,7 +6,7 @@
     <string name="action_refresh">Refresh</string>
     <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
-
+    <string name ="test">n non-functional linguistics, a sentence is a textual unit consisting of one or more words that are grammatically linked. In functional linguistics, a sentence is a unit of written texts delimited by graphological features such as upper case letters and markers such as periods, question marks</string>
     <string name="up">Up</string>
 
 </resources>

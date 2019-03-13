@@ -23,4 +23,5 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name ="applayout">#FF007FE6</color>
+    <color name="textColor">#000000</color>
 </resources>
