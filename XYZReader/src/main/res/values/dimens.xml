@@ -13,4 +13,5 @@
     <dimen name="paddingRightHorizontal">1dp</dimen>
     <dimen name="paddingTopHorizontal">1dp</dimen>
     <dimen name="paddingBottomHorizontal">1dp</dimen>
+
 </resources>
