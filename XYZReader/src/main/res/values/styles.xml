@@ -18,7 +18,9 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+            <item name="colorPrimary">@color/applayout</item>
+            <item name="colorPrimaryDark">@color/ltgray</item>
+            <item name="colorAccent">@color/cardview_dark_background</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
